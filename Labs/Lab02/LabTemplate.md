@@ -1,11 +1,11 @@
 ## Lab 02
 
-- Name:
-- Email
+- Name: Morgan Barlage
+- Email: barlage.37@wright.edu
 
 ## Part 2 Answers
 
-1. Add a file for tracking:
+1. Add a file for tracking: 
 2. Commit changes:
 3. Sync local commits with GitHub:
 
